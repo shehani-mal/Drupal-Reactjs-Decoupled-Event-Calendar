@@ -7,7 +7,14 @@ Events created in Drupal (with fields like title, date, and location) are fetche
 This setup demonstrates how to build a **headless Drupal application** with a **modern JavaScript frontend**.  
 
 ---
+## Demo
 
+Here’s how the Decoupled Drupal + React.js Event Calendar works:
+
+![Demo of Drupal + React.js Event Calendar](docs/demo.gif)
+
+
+---
 ## 🚀 Features
 
 - **Drupal backend** for structured event content  
