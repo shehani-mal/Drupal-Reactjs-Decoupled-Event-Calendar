@@ -11,7 +11,7 @@ This setup demonstrates how to build a **headless Drupal application** with a **
 
 Here’s how the Decoupled Drupal + React.js Event Calendar works:
 
-![Demo of Drupal + React.js Event Calendar](docs/demo.gif)
+![Demo of Drupal + React.js Event Calendar](docs/event-calender.gif)
 
 
 ---
